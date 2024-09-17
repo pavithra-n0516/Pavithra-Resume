@@ -1,0 +1,56 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f3eded;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+         
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        .contact-info {
+            margin: 20px 0;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .section {
+            background: #f5f2f2;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .section h2 {
+            margin-top: 0;
+            background-color: rgb(238, 233, 233);
+        }
+        .education {
+            margin-bottom: 20px;
+            background-color: rgb(238, 233, 233);
+            background-color: #f1f0f0;
+        }
+        .job, .school {
+            margin-bottom: 10px;
+        }
+        .job h3, .school h3 {
+            margin: 0;
+        }
+        .summary{
+            background-color: #f1f0f0;
+        }
+    
